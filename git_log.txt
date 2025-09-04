@@ -1,0 +1,45 @@
+commit 773047aec672ea74c66f2dd966e5392b74c3d9d0
+Merge: 786bd82 0f1759b
+Author: davidhndz <davidhndz1@icloud.com>
+Date:   Thu Sep 4 16:11:40 2025 -0700
+
+    Resolved merge conflicts
+
+commit 0f1759b3a7bd1a012c1aa4be3de33ba4a0f21e05
+Author: davidhndz <davidhndz1@icloud.com>
+Date:   Thu Sep 4 16:07:30 2025 -0700
+
+    Added favorite movie div
+
+commit 786bd82df3147b00a29396acd4b3829c7676fe2c
+Author: davidhndz <davidhndz1@icloud.com>
+Date:   Thu Sep 4 16:05:40 2025 -0700
+
+    Added favorite food div
+
+commit d52552071bc7bf3d8732076d472abb933afbe352
+Author: davidhndz <davidhndz1@icloud.com>
+Date:   Thu Sep 4 15:59:58 2025 -0700
+
+    added README.md
+
+commit f5aa988fd39d5fe54d21da29348e2dcb4bebac08
+Merge: 1d2bfc0 5c547d9
+Author: David Hernandez <96223632+davidhndz@users.noreply.github.com>
+Date:   Thu Sep 4 13:55:48 2025 -0700
+
+    Merge pull request #1 from davidhndz/info-fill
+    
+    Filled in the blanks
+
+commit 5c547d90318f250f16a1f08df9078f708a5d1fcc
+Author: davidhndz <davidhndz1@icloud.com>
+Date:   Thu Sep 4 13:53:54 2025 -0700
+
+    Filled in the blanks
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
